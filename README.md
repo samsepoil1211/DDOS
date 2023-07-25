@@ -80,7 +80,7 @@
 <p align="center"><img src="preview.png" alt="Preview"></p>
 <p align="center"><img src="preview2.png" alt="Preview"></p>
 <h1>Contact</h1>
-<p><li>Email: contact@tranbaokha.com</li></p>
+<p><li>Email: rootkit1211@proton.me</li></p>
 <p><li>Discord: _not_your_nobita</li></p>
 <p><li>Telegram: @SamSepoil12111</li></p>
 <p><li>Discord server: https://discord.gg/bvfgpnpA</li></p>
