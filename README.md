@@ -72,7 +72,7 @@
   $ python bot.py
   ```
 <h1>About bot</h1>
-<p><li>Author: Kyle Tran</li></p>
+<p><li>Author: NOBITA</li></p>
 <p><li>Version: 1.2</li></p>
 <p><li>Language: Python, NodeJS, Golang</li></p>
 <p><li>License: GNU General Public License v3.0</li></p>
